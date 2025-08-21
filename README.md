@@ -1,5 +1,5 @@
 
-# 📋 Board API
+# 📋 Board JAVA
 
 Este projeto é uma **API REST** construída com **Spring Boot + Maven + JPA/Hibernate + MySQL (via Docker)**.  
   
