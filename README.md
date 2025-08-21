@@ -2,7 +2,7 @@
 # 📋 Board API
 
 Este projeto é uma **API REST** construída com **Spring Boot + Maven + JPA/Hibernate + MySQL (via Docker)**.  
-Inspirado no projeto [Board da DIO](https://github.com/digitalinnovationone/board), mas refeito com Maven e persistência em JPA/Hibernate.  
+  
 
 ---
 
@@ -124,7 +124,4 @@ DELETE /api/boards/{id}
 
 
 
-## 📜 Licença
-
-Este projeto foi desenvolvido para fins de estudo.  
 
