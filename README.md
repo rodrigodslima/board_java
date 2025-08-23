@@ -37,20 +37,21 @@ Isso irá criar um container com:
 ### 🔹 Windows (CMD ou PowerShell)
 
 1. git clone https://github.com/seu-usuario/board-java.git
+   ```
 cd board-maven
    ```
 
-2. Suba o MySQL:  
+3. Suba o MySQL:  
    ```bat
    docker-compose up -d
    ```
 
-3. Rode o projeto:  
+4. Rode o projeto:  
    ```bat
    mvn spring-boot:run
    ```
 
-4. Acesse no navegador:  
+5. Acesse no navegador:  
    ```
    http://localhost:8080/api/boards
    ```
