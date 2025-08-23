@@ -19,7 +19,7 @@ Este projeto é uma **API REST** construída com **Spring Boot + Maven + JPA/Hib
 ## 📂 Estrutura do Projeto
 
 ```
-board-JAVA/
+board-java/
  ├── docker-compose.yml
  ├── pom.xml
  ├── .gitignore
