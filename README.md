@@ -24,7 +24,7 @@ board-maven/
  ├── pom.xml
  ├── .gitignore
  └── src/main/
-     ├── java/com/example/board/
+     ├── java/com.board/
      │   ├── BoardApplication.java
      │   ├── model/Board.java
      │   ├── repository/BoardRepository.java
