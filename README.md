@@ -36,9 +36,8 @@ Isso irá criar um container com:
 
 ### 🔹 Windows (CMD ou PowerShell)
 
-1. Entre na pasta do projeto:  
-   ```bat
-   cd board-maven
+1. git clone https://github.com/seu-usuario/board-java.git
+cd board-maven
    ```
 
 2. Suba o MySQL:  
