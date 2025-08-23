@@ -16,25 +16,6 @@ Este projeto é uma **API REST** construída com **Spring Boot + Maven + JPA/Hib
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```
-board-java/
- ├── docker-compose.yml
- ├── pom.xml
- ├── .gitignore
- └── src/main/
-     ├── java/com.board/
-     │   ├── BoardApplication.java
-     │   ├── model/Board.java
-     │   ├── repository/BoardRepository.java
-     │   └── controller/BoardController.java
-     └── resources/
-         └── application.properties
-```
-
----
-
 ## ⚙️ Banco de Dados (MySQL via Docker)
 
 Na raiz do projeto, execute:
